@@ -1,4 +1,4 @@
-aiohttp==3.9.3
+aiohttp==3.12.14
 azure-identity==1.18.0
 python-dotenv==1.0.0
 pymongo==4.7.0
